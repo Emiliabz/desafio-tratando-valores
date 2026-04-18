@@ -1,34 +1,27 @@
 ﻿# Desafio: Tratando Valores
 
-Desafio de processamento e validaÃ§Ã£o de valores de entrada.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa tratamento de entrada de dados, validaÃ§Ã£o de tipos e conversÃµes de valores.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_tratando_valores.py
+python desafio-tratando-valores.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- ValidaÃ§Ã£o de entrada numÃ©rica
-- ConversÃ£o de tipos
-- Tratamento de erros
-- FormataÃ§Ã£o de saÃ­da
-
-## ðŸ’¡ Tipos Tratados
-
-- Inteiros
-- Floats
-- Strings
-- Booleanos
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
